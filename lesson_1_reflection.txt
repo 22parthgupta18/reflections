@@ -1,0 +1,9 @@
+diff -u FILE 1 FILE 2
+git log
+git diff id1 id2
+
+For seeing stats
+git log --stat
+
+git checkout         --previous version
+git status
